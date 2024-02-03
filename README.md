@@ -52,8 +52,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
 
-<h3 align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamupo&" alt="iamupo" /></p>
-</h3>
