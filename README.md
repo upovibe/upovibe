@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg"  />
+  <img height="150" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611sthmfut7wb0zytyzfwh7zjd156vkdijjjg787d52&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 <br>
 <div align="center">
