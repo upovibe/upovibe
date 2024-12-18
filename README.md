@@ -57,14 +57,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
-  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png" alt="external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo"/>
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Expo_Logo.png" height="40" alt="Expo" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/expo.png" alt="expo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/expo.png" alt="expo"/>
 </div>
 
 ---
