@@ -110,21 +110,18 @@
   <a href="https://www.threads.net/@upovibe"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Threads" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
-</p>
-
-<picture>
+<picture align="center">
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/upovibe/upovibe/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/upovibe/upovibe/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Grid Snake Animation"
+    src="https://raw.githubusercontent.com/upovibe/upovibe/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
