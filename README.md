@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWc1cmxqZ2N2a3d4a2x6Y3N3c3d0aGNjemloZmkzb2tyNTh2MHl3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
+    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47rshhqkro5x3p5b7aui3bxk3hh22ndgwfv5dqsrhm&ep=v1_gifs_related&rid=giphy.gif&ct=g" 
     alt="coding gif" 
     height="150" 
     style="border-radius: 50%; overflow: hidden;" 
