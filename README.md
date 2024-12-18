@@ -92,6 +92,15 @@
 
 ---
 
+<h3 align="center">📈 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=upovibe&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upovibe&layout=compact&theme=radical" height="150" alt="Top Languages" />
+</div>
+
+---
+
 <h3 align="center">💼 Let's Connect</h3>
 
 <p align="center">
