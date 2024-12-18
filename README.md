@@ -60,16 +60,11 @@
 <h3 align="center">📄 Download My CV</h3>
 
 <p align="center">
-  <a 
-    href="https://github.com/upovibe/upovibe/blob/main/CV.pdf" 
-    download 
-    style="text-decoration: none; color: white;"
-  >
-    <button 
-      style="background-color: #4caf50; border: none; color: white; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;"
-    >
-      📥 Download CV
-    </button>
+  <a href="https://github.com/upovibe/upovibe/blob/main/CV.pdf" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Download%20CV-4CAF50?style=for-the-badge&logo=github&logoColor=white" 
+      alt="Download CV" 
+    />
   </a>
 </p>
 
