@@ -57,22 +57,34 @@
 
 ---
 
-<h3 align="center">🌟 Projects</h3>
+<h3 align="center">📄 Download My CV</h3>
 
 <p align="center">
-  🔹 <strong>BlackinTech</strong>: A full-stack job search web application.<br>
-  🔹 <strong>Real Estate Web App</strong>: A responsive real estate platform built as a university project.<br>
-  🔹 <strong>Portfolio Website</strong>: Personal portfolio built with Next.js, MongoDB, and Prisma.
+  <a 
+    href="https://github.com/upovibe/upovibe/blob/main/CV.pdf" 
+    download 
+    style="text-decoration: none; color: white;"
+  >
+    <button 
+      style="background-color: #4caf50; border: none; color: white; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;"
+    >
+      📥 Download CV
+    </button>
+  </a>
 </p>
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
+<h3 align="center">🌐 Check Out My Portfolio</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=upovibe&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upovibe&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="https://upovibe.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="Portfolio" 
+    />
+  </a>
+</p>
 
 ---
 
@@ -80,6 +92,7 @@
 
 <p align="center">
   <a href="mailto:uzorpromiseokwudiri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/promise-uzor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/upovibe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/upovibe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/upovibe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.threads.net/@upovibe"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Threads" /></a>
 </p>
