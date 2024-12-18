@@ -109,3 +109,7 @@
   <a href="https://twitter.com/upovibe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.threads.net/@upovibe"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Threads" /></a>
 </p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
+</p>
