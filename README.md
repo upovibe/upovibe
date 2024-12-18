@@ -110,7 +110,7 @@
   <a href="https://www.threads.net/@upovibe"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Threads" /></a>
 </p>
 
-<picture align="center">
+<div align="center">
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -123,5 +123,5 @@
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-</picture>
+</div>
 
