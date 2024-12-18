@@ -56,7 +56,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/laravel.png" alt="laravel"/>
   <img width="12" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/expo.png" alt="expo"/>
   <img width="12" />
