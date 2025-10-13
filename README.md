@@ -82,7 +82,7 @@
 <h3 align="center">🌐 Check Out My Portfolio</h3>
 
 <p align="center">
-  <a href="https://upovibe.vercel.app/" target="_blank">
+  <a href="https://my-portfolio-jade-tau-37.vercel.app/" target="_blank">
     <img 
       src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white" 
       alt="Portfolio" 
