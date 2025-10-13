@@ -69,7 +69,7 @@
 <h3 align="center">📄 Download My CV</h3>
 
 <p align="center">
-  <a href="https://github.com/upovibe/upovibe/blob/main/CV.pdf" target="_blank">
+  <a href="https://github.com/upovibe/upovibe/blob/main/Promise_Uzor_CV.pdf" target="_blank">
     <img 
       src="https://img.shields.io/badge/Download%20CV-4CAF50?style=for-the-badge&logo=github&logoColor=white" 
       alt="Download CV" 
