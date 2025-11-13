@@ -10,13 +10,7 @@
 <br>
 
 <h1 align="center">Hi 👋🏽 I'm Promise</h1>
-
 <p align="center">
-  🚀 Full-Stack Developer | Passionate about Crafting Intuitive User Experiences
-</p>
-
-<p align="center">
-  💬 Ask me about <strong>HTML, CSS, JavaScript, React, Next.js, and Vue</strong><br><br> 
   ⚡ Fun fact: I thrive on solving complex challenges, often diving deep into code with endless curiosity. I’m all about turning caffeine and creativity into functional, elegant solutions (and yes, occasionally forgetting to eat while debugging). I believe there's always something new to learn, especially in this ever-evolving tech world. Let's build something awesome together!
 </p>
 
