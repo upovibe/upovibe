@@ -9,7 +9,7 @@
 
 <br>
 
-<h1 align="center">Hi 👋🏽 I'm Promise Uzor Okwudiri</h1>
+<h1 align="center">Hi 👋🏽 I'm Promise</h1>
 
 <p align="center">
   🚀 Full-Stack Developer | Passionate about Crafting Intuitive User Experiences
